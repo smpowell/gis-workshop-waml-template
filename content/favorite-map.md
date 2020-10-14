@@ -9,3 +9,4 @@ nav_order: 11
 ## What would you guess?
 
 ### Ice cream!
+![swoopy map](img/fav-map.png)
